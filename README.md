@@ -20,3 +20,17 @@ The database is structured as follows:
 7. Show rental info with additional columns month and weekday. Get 20 results.
 8. Add an additional column day_type with values 'weekend' and 'workday' depending on the rental day of the week.
 9. How many rentals were in the last month of activity?
+
+### 06.04.2021 - New Instructions
+
+Lab | SQL Queries - Lesson 2.5
+1. Select all the actors with the first name ‘Scarlett’.
+2. How many films (movies) are available for rent and how many films have been rented?
+3. What are the shortest and longest movie duration? Return the results as columns with the names  max_duration and min_duration.
+4. What's the average movie duration expressed in format (hours, minutes) Return the result as columns with the names hours and minutes?
+5. How many distinct (different) actors' last names are there?
+6. Since how many days has the company been operating (check the DATEDIFF() function)? Hint: rental table
+7. Show all rental information with additional columns month and weekday. (hint: DATE_FORMAT() ). Get 20 results.
+8. Add an additional column day_type with values 'weekend' and 'workday' depending on the rental day of the week.
+9. How many rentals were made in the last month of renting activity?
+.... stay tuned, improved instructions for the other labs will maybe follow
